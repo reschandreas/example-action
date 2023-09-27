@@ -6,7 +6,7 @@ metadata:
     name: Andreas Resch
     email: andreas@resch.io
 steps:
-  hello-world:
+  greetings:
     parameters:
       WHO_TO_GREET: "world"
     excludeDuring:
